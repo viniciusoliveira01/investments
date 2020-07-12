@@ -6,7 +6,7 @@
 yarn install
 ```
 
-## Develop
+## Running
 
 ```bash
 yarn start
